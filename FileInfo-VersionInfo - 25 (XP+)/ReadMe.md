@@ -1,0 +1,3 @@
+It reads information from PE (portable executable) VarFileInfo and StringFileInfo. InnoSetup has a function to read some of these information, for example "GetVersionNumbers" and "GetVersionNumbersString" (from code). But, there's no function to read the information about Comments, ProductName, and any other information from the StringFileInfo, or VarFileInfo.
+
+With this plugin you will be able to read any of the information from the PE file (if these information exists).
