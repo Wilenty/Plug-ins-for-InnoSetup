@@ -1,5 +1,7 @@
 # Plug-ins for InnoSetup
 
+**It's modified version of this one: https://github.com/Wilenty/InnoSetup-with-latest-LZMA so, the license and copyrights are the same for all non-official InnoSetup builds.**
+
 I start this text with warning:
 I won't return the money for you if you don't read the explanation below "how to it work" and "how to use it", but you will report me that my plugin not works in your InnoSetup and you ask for your money back.
 But, I will return the money when you will prove that my plugin does not work. Problems with implementing my functions in your script does not count. I share the plugin and ready made script to test it. I can help you with implementing it in the first one script of you.
