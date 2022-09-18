@@ -45,6 +45,7 @@ In this same way as in the shared GetCommandLine example. I share example of Get
 #### What does your plug-in do?
 ***A:***
 Adds the necessary code to the script (during compilation), the functions used by the user are described in the *.isi file (InnoSetup include). It does not add anything else, nor does it change the way InnoSetup installers work.
+So, my plug-in are not used in your installer, it's only used when you compile the installer.
 
 ***Q:***
 #### It was tested and works?
