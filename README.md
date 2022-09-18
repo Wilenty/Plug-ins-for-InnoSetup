@@ -34,11 +34,17 @@ If you want, you can use the "Setup.e32" and "SetupLdr.e32" from offical release
 #### These plugins are ANSI or UNICODE (A/W)?
 ***A:***
 Usually these plugins are ANSI and UNICODE (A/W), but some of them are ANSI (A) and some UNICODE (W) only. Some of them supports both (A/W), like the GetCommandLine example, even if there's no CommandLineToArgvA Windows API function at all.
+If there are separate API functions for ANSI and UNICODE (A/W), I trying to use both of them, otherwise the examples without A or W letters at the end of example name.
 
 ***Q:***
 #### How does it work?
 ***A:***
 In this same way as in the shared GetCommandLine example. I share example of GetCommandLine that you can compile it by yourself and test my plugin system, because InnoSetup owners removed some parameters forwarded to the script in the latest version (v6.2.1).
+
+***Q:***
+#### What does your plug-in do?
+***A:***
+Adds the necessary code to the script (during compilation), the functions used by the user are described in the *.isi file (InnoSetup include). It does not add anything else, nor does it change the way InnoSetup installers work.
 
 ***Q:***
 #### It was tested and works?
