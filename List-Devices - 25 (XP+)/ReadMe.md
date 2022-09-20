@@ -1,0 +1,1 @@
+If someone will be interested to update the hardware driver or remove it - please let me know, because for now I more focused on how to add more examples with information about user hardware, settings, etc.
