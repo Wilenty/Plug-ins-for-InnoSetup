@@ -1,0 +1,3 @@
+It displays the MsgBox for specified period of the time. But, when you add command-line parameter "/SUPPRESSMSGBOXES", and you use "SuppressibleMsgBoxTimeOut*" in your code, it will be skipped and the default value will be returned (in this same way as in the "SuppressibleMsgBox").
+
+The right to left reading is automatically chosen depends of the language used, as showed on the example from Windows XP.
