@@ -1,0 +1,1 @@
+It reads information about file and/or directory and/or link destination.
