@@ -64,6 +64,8 @@ Of course - I use long function naming to not make any collision between any of 
 #### 2 - Please provide the plugin name you want and your e-mail for which the plugin will be registered
 #### 3 - After I get the money, I will create the plugin for you, I will test it and share in one working day (usually faster)
 
+If someone wants some of them in one pack, or all of them in one pack, please provide your offer and your e-mail address. I will contact you privately for details.
+
 If you have any other question - ask, I will try to answer as best as I can...
 
 By the way,
