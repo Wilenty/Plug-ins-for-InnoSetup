@@ -2,6 +2,6 @@ It executes any console program and immediately returns its output or error outp
 
 It returns true if successfully executed, false otherwise. It waits for the program end, and it will returns executed program exit-code after the program closed.
 
-![10](https://user-images.githubusercontent.com/61757638/194720215-589b877e-88a1-48dc-87b7-441cf9937919.png)
+![10](https://user-images.githubusercontent.com/61757638/195170789-c1a823d9-2889-4f15-ae51-b83cb2859897.png)
 
-![XP](https://user-images.githubusercontent.com/61757638/194720253-707e4d47-e18f-47f4-999b-bf48781e605a.png)
+![XP](https://user-images.githubusercontent.com/61757638/195170813-ca16a004-f362-41fd-88be-c58b39ed65cc.png)
