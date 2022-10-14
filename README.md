@@ -6,6 +6,11 @@ I start this text with warning:
 I won't return the money for you if you don't read the explanation below "how to it work" and "how to use it", but you will report me that my plugin not works in your InnoSetup and you ask for your money back.
 But, I will return the money when you will prove that my plugin does not work. Problems with implementing my functions in your script does not count. I share the plugin and ready made script to test it. I can help you with implementing it in the first one script of you.
 
+**Let's say, the first 100 persons who will decide to buy one plug-in - can get second plug-in for free. But, there is a "catch" - you have to write a opinion abut my plugin in a public place in the internet and share the link to that page on my github. In the promotion time, I share the chosen plug-in of given name from here. You test it, and you write a opinion about in any public place (your website, open forums, etc.), then you paste the link on my github:
+https://github.com/Wilenty/Plug-ins-for-InnoSetup/issues/1
+with second name of the plug-in you will chose and I share second plug-in for you. I expect true opinion, independent if you will like it or not. One promotion can be used only once.
+If there will be a lot of interest, the time to receive the plugin may increase (can be longer than described).**
+
 A word of explanation:
 InnoSetup is a good installer for beginners, but for example, if you want to get information about CPU, GPU, IP, etc. - you will have to create your own plugin (DLL). The installer extracts the plugin (DLL) to a temporary location and loads it, and it takes some time... I managed to "translate" some of Windows API functions to use them directly in the InnoSetup code. So, I share them as a plugins.
 
