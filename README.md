@@ -8,7 +8,7 @@ But, I will return the money when you will prove that my plugin does not work. P
 
 **Let's say, the first 100 persons who will decide to buy one plug-in - can get second plug-in for free. But, there is a "catch" - you have to write a opinion abut my plugin in a public place in the internet and share the link to that page on my github. In the promotion time, I share the chosen plug-in of given name from here. You test it, and you write a opinion about in any public place (your website, open forums, etc.), then you paste the link on my github:
 https://github.com/Wilenty/Plug-ins-for-InnoSetup/issues/1
-with second name of the plug-in you will chose and I share second plug-in for you. I expect true opinion, independent if you will like it or not. One promotion can be used only once.
+with second name of the plug-in you will chose and I share second plug-in for you. I expect true opinion, independent if you will like it or not. Every person can use this promotion only once.
 If there will be a lot of interest, the time to receive the plugin may increase (can be longer than described).**
 
 A word of explanation:
