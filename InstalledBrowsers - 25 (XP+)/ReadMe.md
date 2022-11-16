@@ -1,0 +1,1 @@
+A list of installed browsers for current UserBrowsers (if any), and globally.
