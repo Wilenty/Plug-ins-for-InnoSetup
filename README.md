@@ -2,21 +2,16 @@
 
 **It's modified version of this one: https://github.com/Wilenty/InnoSetup-with-latest-LZMA so, the license and copyrights are the same for all non-official InnoSetup builds.**
 
-I start this text with warning:
-I won't return the money for you if you don't read the explanation below "how to it work" and "how to use it", but you will report me that my plugin not works in your InnoSetup and you ask for your money back.
-But, I will return the money when you will prove that my plugin does not work. Problems with implementing my functions in your script does not count. I share the plugin and ready made script to test it. I can help you with implementing it in the first one script of you.
-
-**Let's say, the first 100 persons who will decide to buy one plug-in - can get second plug-in for free. But, there is a "catch" - you have to write a opinion abut my plugin in a public place in the internet and share the link to that page on my github. In the promotion time, I share the chosen plug-in of given name from here. You test it, and you write a opinion about in any public place (your website, open forums, etc.), then you paste the link on my github:
-https://github.com/Wilenty/Plug-ins-for-InnoSetup/issues/1
-with second name of the plug-in you will chose and I share second plug-in for you. I expect true opinion, independent if you will like it or not. Every person can use this promotion only once.
-If there will be a lot of interest, the time to receive the plugin may increase (can be longer than described).**
-
 A word of explanation:
-InnoSetup is a good installer for beginners, but for example, if you want to get information about CPU, GPU, IP, etc. - you will have to create your own plugin (DLL). The installer extracts the plugin (DLL) to a temporary location and loads it, and it takes some time... I managed to "translate" some of Windows API functions to use them directly in the InnoSetup code. So, I share them as a plugins.
+InnoSetup is a good installer for beginners, but for example, if you want to get information about CPU, GPU, IP, etc. - you will have to create your own plugin (DLL). The installer extracts the plugin (DLL) to a temporary location and loads it, and it takes some time... I managed to "translate" some of Windows API functions to use them directly in the InnoSetup code. So, I share them as compiled examples.
 
 Note:
 Examples to check/test are compiled executable protected from unpacking. So, if you don't trust unsigned files, please test/check them in the VM (virtual machine). Sometimes protected InnoSetup installers are detected as dangerous, because AV can't check "what's inside".
 It's hard to share publicly an example to check by users, because there are many tools to de-compile InnoSetup installers, but without checking "how it works" and without knowing "what I offer" probably you will never decide to use my works... So, examples protected from unpacking is the only one way to show my works without showing "how it's done" - I hope you understand what I mean.
+
+## If you think opening the source code will change something - no, it won't change anything.
+For example, same things in another subjects:
+https://github.com/moudey/Shell/issues/139#issuecomment-1433285642
 
 ***Q:***
 #### What is that and what is it used for?
@@ -47,29 +42,9 @@ If there are separate API functions for ANSI and UNICODE (A/W), I trying to use 
 In this same way as in the shared GetCommandLine example. I share example of GetCommandLine that you can compile it by yourself and test my plugin system, because InnoSetup owners removed some parameters forwarded to the script in the latest version (v6.2.1).
 
 ***Q:***
-#### What does your plug-in do?
-***A:***
-Adds the necessary code to the script (during compilation), the functions used by the user are described in the *.isi file (InnoSetup include). It does not add anything else, nor does it change the way InnoSetup installers work.
-So, my plug-in are not used in your installer, it's only used when you compile the installer.
-
-***Q:***
 #### It was tested and works?
 ***A:***
 Yes - I test these plugins on real computer or virtual machine on Windows of XP, XP 64-bit, 7 and 10. I share compiled examples that you can check it on your OS.
-
-***Q:***
-#### Can I use two or more of your plugins in one InnoSetup script?
-***A:***
-Of course - I use long function naming to not make any collision between any of them.
-
-***Q:***
-#### How I can get it?
-***A:***
-#### 1 - Please support me for amount of $25 on Patreon or 25€ on ko-fi, per one plugin
-#### 2 - Please provide the plugin name you want and your e-mail for which the plugin will be registered
-#### 3 - After I get the money, I will create the plugin for you, I will test it and share in one working day (usually faster)
-
-If someone wants some of them in one pack, or all of them in one pack, please provide your offer and your e-mail address. I will contact you privately for details.
 
 If you have any other question - ask, I will try to answer as best as I can...
 
