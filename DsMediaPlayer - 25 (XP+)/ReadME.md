@@ -1,1 +1,0 @@
-This example (based on "DS Media Player" plug-in) plays any media file supported by the OS. If the media file is a movie - the video window will be visible, otherwise it will not be shown. If the media file have the sound track - you will see the "%" control between buttons to set the playing volume, otherwise not.
