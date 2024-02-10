@@ -1,5 +1,12 @@
 # Plug-ins for InnoSetup
 
+[![Latest Version](https://img.shields.io/github/release/Wilenty/Plug-ins-for-InnoSetup.svg)](https://github.com/Wilenty/Plug-ins-for-InnoSetup/releases/latest)
+[![Total Downloads](https://img.shields.io/github/downloads/Wilenty/Plug-ins-for-InnoSetup/total.svg)](https://github.com/Wilenty/Plug-ins-for-InnoSetup/releases)
+[![Latest Release Downloads](https://img.shields.io/github/downloads/Wilenty/Plug-ins-for-InnoSetup/latest/total.svg)](https://github.com/Wilenty/Plug-ins-for-InnoSetup/releases/latest)
+[![v6.2.3 Release Downloads](https://img.shields.io/github/downloads/Wilenty/Plug-ins-for-InnoSetup/v6.2.3/total.svg)](https://github.com/Wilenty/Plug-ins-for-InnoSetup/releases/v6.2.3)
+[![v6.2.2 Release Downloads](https://img.shields.io/github/downloads/Wilenty/Plug-ins-for-InnoSetup/v6.2.2/total.svg)](https://github.com/Wilenty/Plug-ins-for-InnoSetup/releases/v6.2.2)
+[![v6.2.1 Release Downloads](https://img.shields.io/github/downloads/Wilenty/Plug-ins-for-InnoSetup/v6.2.1/total.svg)](https://github.com/Wilenty/Plug-ins-for-InnoSetup/releases/v6.2.1)
+
 **It's modified version of this one: https://github.com/Wilenty/InnoSetup-with-latest-LZMA so, the license and copyrights are the same for all non-official InnoSetup builds.**
 
 A word of explanation:
