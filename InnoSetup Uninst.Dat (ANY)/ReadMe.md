@@ -1,0 +1,1 @@
+Allows you to view the information contained in the Unins000.dat (Unins001.dat, etc.) file of InnoSetup.
